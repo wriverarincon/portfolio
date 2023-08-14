@@ -19,4 +19,5 @@ Feel free to dive into any project that piques your interest and explore the wor
 Connect with me on [LinkedIn](www.linkedin.com/in/wirdinrivera) to learn more about me and my journey.
 
 Happy exploring!
-[Wirdin Rivera]
+
+Wirdin Rivera
