@@ -8,7 +8,6 @@ In this project, I've delved into my credit card expenses to gain insights into 
 
 ## Key Features
 Key Features of My Analysis:
-Key Technical Features of My Analysis:
 
 1. **Data Collection and Preparation:** Gathered credit card transaction data from multiple months, organized it into a structured format and prepared it for analysis.
 2. **Data Cleaning:** Performed data cleaning tasks such as handling missing values, removing duplicates, and ensuring consistent date formats to create a reliable dataset.
@@ -26,7 +25,7 @@ Key Technical Features of My Analysis:
 14. **Communication of Insights:** Summarized and communicated findings in a clear and concise manner, tailoring explanations for both technical and non-technical audiences.
 15. **Future Recommendations:** Proposed actionable recommendations based on insights gained from the analysis, guiding potential changes in spending behavior for better financial outcomes.
 
-Key Findings from My Analysis:
+##Key Findings from My Analysis:
 
 1. **Weekday Spending Peaks:** Contrary to expectations, my highest spending days are not exclusively weekends. Instead, I tend to spend more from Thursday to Sunday, indicating a shift in spending habits that contradicts conventional patterns.
 2. **Evening Outings:** A noticeable spending trend emerges during evening hours, particularly after 8 PM on weekdays. This suggests that dining out or engaging in leisure activities in the evenings contribute significantly to my expenses.
