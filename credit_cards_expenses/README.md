@@ -8,29 +8,40 @@ In this project, I've delved into my credit card expenses to gain insights into 
 
 ## Key Features
 Key Features of My Analysis:
+Key Technical Features of My Analysis:
 
-1. **Temporal Spending Patterns:** I examined my credit card expenses over several months to identify patterns and trends in my spending behavior.
-2. **Monthly Comparison:** By categorizing expenses month by month, I compared spending habits across different periods, highlighting changes and fluctuations.
-3. **Day of Week Analysis:** I delved into the day-of-week impact on spending, revealing insights about how my expenses vary throughout the week.
-4. **Expense Categories:** I categorized expenses into distinct categories like "Food Delivery," "Gasoline," "Supermarket," and more, enabling a granular view of where my money is going.
-5. **Visualization:** To enhance understanding, I used various visualization techniques, including scatter plots, bar charts, and heatmaps, to effectively communicate spending patterns.
-6. **Reflection and Insights:** I interpreted the data to uncover surprising insights, such as the shift in spending patterns after purchasing a car and the relationship between weekends and expenses.
-7. **Expense Peaks and Valleys:** By highlighting peak spending periods and identifying areas of reduced expenses, I gained valuable insights into where I could potentially make adjustments.
-8. **Financial Awareness:** The analysis raised my financial awareness and encouraged me to make more informed decisions about my spending habits and budget management.
-9. **Future Planning:** Armed with this newfound knowledge, I can strategize and plan better for my financial future, making more intentional choices about spending and saving.
-10. **Continuous Learning:** The analysis served as a starting point for my journey into data analytics, motivating me to continue learning and refining my skills for even more insightful analyses in the future.
+1. **Data Collection and Preparation:** Gathered credit card transaction data from multiple months, organized it into a structured format and prepared it for analysis.
+2. **Data Cleaning:** Performed data cleaning tasks such as handling missing values, removing duplicates, and ensuring consistent date formats to create a reliable dataset.
+3. **Exploratory Data Analysis (EDA):** Conducted thorough EDA to understand the distribution of expenses, identify outliers, and explore trends and patterns within the data.
+4. **Time-Series Analysis:** Utilized time-series analysis techniques to examine the relationship between spending and specific time intervals, such as days of the week and months.
+5. **Visualization:** Created a variety of visualizations including bar charts, scatter plots, area charts, and heatmaps to effectively communicate spending patterns and trends.
+6. **Categorization and Grouping:** Categorized expenses into meaningful groups, enabling in-depth analysis of spending behavior across different categories.
+7. **Comparative Analysis:** Compared spending patterns across different time periods (months) to identify changes, trends, and shifts in behavior.
+8. **Statistical Insights:** Utilized descriptive statistics to calculate key metrics such as average, total, and percentage changes in spending, providing quantitative insights.
+9. **Anomaly Detection:** Employed anomaly detection techniques to identify unusual or unexpected spending behavior, contributing to a more comprehensive understanding of the data.
+10. **Data Interpretation:** Drew meaningful conclusions from the analysis, linking spending patterns to external events and personal experiences, resulting in actionable insights.
+11. **Data Visualization Customization:** Enhanced visualizations with customized labels, colors, and annotations to improve interpretability and communication of findings.
+12. **Statistical Tools:** Leveraged Python libraries, such as Pandas and Matplotlib, for data manipulation and visualization, enhancing the analysis process.
+13. **Continuous Learning and Improvement:** Demonstrated a commitment to learning and skill enhancement by incorporating user feedback and iteratively refining the analysis approach.
+14. **Communication of Insights:** Summarized and communicated findings in a clear and concise manner, tailoring explanations for both technical and non-technical audiences.
+15. **Future Recommendations:** Proposed actionable recommendations based on insights gained from the analysis, guiding potential changes in spending behavior for better financial outcomes.
+
+Key Findings from My Analysis:
+
+1. **Weekday Spending Peaks:** Contrary to expectations, my highest spending days are not exclusively weekends. Instead, I tend to spend more from Thursday to Sunday, indicating a shift in spending habits that contradicts conventional patterns.
+2. **Evening Outings:** A noticeable spending trend emerges during evening hours, particularly after 8 PM on weekdays. This suggests that dining out or engaging in leisure activities in the evenings contribute significantly to my expenses.
+3. **Category Insights:** The analysis reveals that certain categories, such as "Gasoline," "Eat Out," "Cash Withdrawals (ATM)," and "Supermarket," consistently dominate my expenses. These patterns emphasize the impact of routine expenses on my overall spending.
+4. **Impact of Significant Events:** The purchase of a car in May sparked a change in behavior, leading to increased outdoor activities and more diverse spending options. This event significantly influenced my spending distribution and habits.
+5. **Gradual Positive Shift:** Despite some fluctuations, my overall spending trend shows a positive trajectory. Monthly expenses have shown a decrease, signaling a conscious effort to manage my finances more efficiently.
+6. **Financial Awareness:** The analysis has heightened my awareness of spending patterns, encouraging me to evaluate each expense critically and make wiser financial choices.
+7. **Budget Stretching:** Through these findings, I've recognized the importance of optimizing expenses. This includes making the most of my budget by curbing unnecessary spending and allocating resources more effectively.
+8. **Data-Driven Decisions:** The analysis has empowered me to make data-driven decisions regarding my spending, guiding me towards better financial outcomes in the future.
+9. **Path to Improvement:** By identifying areas of concern and targeting specific spending categories, I am better positioned to implement strategies that lead to more mindful and intentional financial decisions.
 
 ## Summary
 #### This analysis has provided me with some remarkable insights into my credit card expenditure trends. Notably, both May and June stood out as months with significant outflows, surpassing 58,000 DOP and 57,000 DOP respectively. It dawned on me that maintaining this spending trajectory would inevitably lead to financial challenges and potential debt. Fortunately, I intervened in time, curbing my expenses. July's spending, which totaled around 35,000 DOP, reflects a marked shift in the right direction – a noteworthy accomplishment on the path towards improved financial stability.
 
 #### While I'm not ready to completely eliminate significant expenses, some financial obligations remain non-negotiable. Nevertheless, I'm dedicated to adopting a wiser approach to money management moving forward. My aim is to maximize the value of every peso and explore prudent ways to optimize my budget. This analysis has truly opened my eyes and is shaping my mindset towards making more informed financial decisions in the future.
-
-## Findings
-
-- **Spending Peaks:** I noticed that my spending tends to peak around the time I receive my job payments.
-- **Weekdays vs. Weekends:** Surprisingly, I spend more on weekdays, even though I have more free time on weekends.
-- **Subscription Impact:** Subscriptions like Netflix, Spotify, and other services do add up, impacting my overall expenses.
-- **Identified Opportunities:** I identified areas where I can potentially cut down expenses to save money.
 
 ## Questions Asked
 
