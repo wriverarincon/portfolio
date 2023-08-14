@@ -1,4 +1,4 @@
-# My Portfolio: Exploring Data Analytics and Statistics with a Computer Science Touch
+# My Portfolio: Exploring Data Analytics
 
 Welcome to my portfolio repository! Here, I've gathered a collection of projects that highlight my journey in the realm of data analytics, statistics, economics, and computer science. Each project is a testament to my growing skills and passion for diving deep into data and uncovering meaningful insights. 
 
